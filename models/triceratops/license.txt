@@ -1,0 +1,11 @@
+Model Information:
+* title:	Triceratops
+* source:	https://sketchfab.com/3d-models/triceratops-9da6ff4f63b6424b87d2934c739ea147
+* author:	AnimationCraft(creep-lover) (https://sketchfab.com/3DArtman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Triceratops" (https://sketchfab.com/3d-models/triceratops-9da6ff4f63b6424b87d2934c739ea147) by AnimationCraft(creep-lover) (https://sketchfab.com/3DArtman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

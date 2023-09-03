@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly Brachiosaurus
+* source:	https://sketchfab.com/3d-models/low-poly-brachiosaurus-b831cd4d7adb44d4837d311f4eb1702c
+* author:	jeckrosso (https://sketchfab.com/jeckrosso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly Brachiosaurus" (https://sketchfab.com/3d-models/low-poly-brachiosaurus-b831cd4d7adb44d4837d311f4eb1702c) by jeckrosso (https://sketchfab.com/jeckrosso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

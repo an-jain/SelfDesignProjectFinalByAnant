@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinosaur - T-Rex & Landscape - LowPoly Scene
+* source:	https://sketchfab.com/3d-models/dinosaur-t-rex-landscape-lowpoly-scene-4449a4e2968641ceb0d6b19cab483916
+* author:	SamThePie (https://sketchfab.com/Sam.Hendy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinosaur - T-Rex & Landscape - LowPoly Scene" (https://sketchfab.com/3d-models/dinosaur-t-rex-landscape-lowpoly-scene-4449a4e2968641ceb0d6b19cab483916) by SamThePie (https://sketchfab.com/Sam.Hendy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

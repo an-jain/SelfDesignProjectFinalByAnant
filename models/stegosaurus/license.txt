@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stegosaurus - Low Poly Dinosaur
+* source:	https://sketchfab.com/3d-models/stegosaurus-low-poly-dinosaur-9776fff241a54639b184d25a2777f63f
+* author:	Billy Jackman (https://sketchfab.com/billyjackman3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stegosaurus - Low Poly Dinosaur" (https://sketchfab.com/3d-models/stegosaurus-low-poly-dinosaur-9776fff241a54639b184d25a2777f63f) by Billy Jackman (https://sketchfab.com/billyjackman3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
